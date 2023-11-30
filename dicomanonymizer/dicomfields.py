@@ -265,8 +265,6 @@ X_TAGS = [
    (0x0040, 0x4037), # Human Performer's Name
    (0x0040, 0x4036), # Human Performer's Organization
    (0x0088, 0x0200), # Icon Image Sequence
-
-(see Note 11)
    (0x0008, 0x4000), # Identifying Comments
    (0x0020, 0x4000), # Image Comments
    (0x0028, 0x4000), # Image Presentation Comments
@@ -338,8 +336,6 @@ X_TAGS = [
    (0x0010, 0x1000), # Other Patient IDs
    (0x0010, 0x1002), # Other Patient IDs Sequence
    (0x0010, 0x1001), # Other Patient Names
-   (0x60xx, 0x4000), # Overlay Comments
-   (0x60xx, 0x3000), # Overlay Data
    (0x0008, 0x0024), # Overlay Date
    (0x0008, 0x0034), # Overlay Time
    (0x0040, 0xA07A), # Participant Sequence
